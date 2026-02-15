@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "PUTMAN Model: A Core Architecture for Contextual Meaning Reconstruction"
+authors:
+  - family-names: "Putman"
+    given-names: "Stephen A."
+doi: "10.5281/zenodo.15634339"
+url: "https://doi.org/10.5281/zenodo.15634339"
+type: "article"
